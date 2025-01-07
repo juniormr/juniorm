@@ -15,4 +15,4 @@
 
 ## This is what I use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormr&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormr&layout=donut)](https://github.com/juniormr/github-readme-stats)
